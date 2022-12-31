@@ -53,6 +53,6 @@ Install / Enable IIS in Windows and Install Web Platform Installer. After instal
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install the latest version of osTicket. Reload IIS, Enable Extensions in IIS, Install HeidiSQL, and Continue Setting up osTicket in the browser. 
+Install the latest version of osTicket.
 </p>
 <br />
