@@ -5,9 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-[![](https://i.imgur.com/h891xk0.jpg)](https://youtu.be/xuUhD3fyIk8)
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -28,29 +25,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
 Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs. When creating the VM, allow it to
 create a new Virtual Network (Vnet). Connect to your Virtual Machine with Remote Desktop.
 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![iis](https://user-images.githubusercontent.com/59034949/211161231-8be40d54-96ba-4851-bba1-90ba318c3add.png)
+
+
+
 Install / Enable IIS in Windows and Install Web Platform Installer. After installation, add MySQL 5.5 and all simple x86 versions of PHP up to 7.3. (Fix any failures if required.) 
 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![osticket](https://user-images.githubusercontent.com/59034949/211161262-18b79251-23bf-4a02-a6ff-ef363fbf87ae.png)
+
+
 Install the latest version of osTicket.
 </p>
 <br />
